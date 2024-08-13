@@ -5,6 +5,8 @@
     "projectToken": "",
     "baseBranches": [],
     "releaseBranches": ["test.*"]
+
+
   },
   "scanSettingsSAST": {
     "enableScan": false,
